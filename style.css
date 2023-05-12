@@ -1,0 +1,87 @@
+body{
+    background-image: url(bkpic.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.container1 {
+    background-color: white;
+    width: 500px;
+    height: 630px;
+
+}
+
+.container2 {
+    background-color: white;
+    width: 500px;
+    height: 630px;
+
+
+}
+
+.maincontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-image: b;
+
+}
+
+.send {
+    background-color: aqua;
+}
+
+.contact-icon {
+    min-width: 67px;
+    height: 67px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 1.4rem;
+    margin-right: 1rem;
+}
+
+.contact-icon i {
+    line-height: 67px;
+}
+
+
+.icontext {
+    display: flex;
+}
+
+.Email-icon {
+    min-width: 67px;
+    height: 67px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 1.4rem;
+    margin-right: 1rem;
+}
+
+.Email-icon i {
+    line-height: 67px;
+}
+.phone-icon {
+    min-width: 67px;
+    height: 67px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 1.4rem;
+    margin-right: 1rem;
+}
+
+.phone-icon i {
+    line-height: 67px;
+}
